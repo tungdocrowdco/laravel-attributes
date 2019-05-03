@@ -47,6 +47,12 @@
             "homepage": "https://github.com/rinvex/laravel-attributes/contributors"
         }
     ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/tungdocrowdco/laravel-support.git"
+        }
+    ],
     "require": {
         "php": "^7.2.0",
         "illuminate/console": "~5.8.0",
@@ -54,7 +60,7 @@
         "illuminate/support": "~5.8.0",
         "jeremeamia/superclosure": "^2.4.0",
         "rinvex/laravel-cacheable": "^2.0.0",
-        "tungdocrowdco/laravel-support": "^1.0.0",
+        "rinvex/laravel-support": "1.0.2",
         "spatie/eloquent-sortable": "^3.4.0",
         "spatie/laravel-sluggable": "^2.1.0",
         "spatie/laravel-translatable": "^3.1.0",
